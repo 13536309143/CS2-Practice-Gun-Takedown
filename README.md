@@ -28,7 +28,7 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
    - Restart your computer after installation
 2. **Check Your Mouse Model**
 
-   - Refer to [`Button Reference Guide`](D:\CS2 Practice Gun Takedown\Must-see Button Diagram_必看按键图.md) for button numbering
+   - Refer to [`Button Reference Guide`](Must-see%20Button%20Diagram_%E5%BF%85%E7%9C%8B%E6%8C%89%E9%94%AE%E5%9B%BE.md) for button numbering
    - Identify which buttons correspond to weapon selections
 
 ### Setup Instructions
@@ -36,7 +36,7 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
 1. **Select Your Sensitivity Script**
 
    - Choose the `.lua` file matching your in-game sensitivity
-   - Example: For sensitivity 2.5, use `游戏内灵敏度2.5.lua`
+   - Example: For sensitivity 2.5, use `Script Code_脚本代码/游戏内灵敏度2.5.lua`
 2. **Import to Logitech G HUB**
 
    - Open Logitech G HUB
@@ -59,19 +59,18 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
 
 ```
 CS2 Practice Gun Takedown/
-├── Scripts/                        # Recoil control scripts
-│   ├── Sensitivity 0.8.lua        # For 0.8 sensitivity
-│   ├── Sensitivity 1.0.lua        # For 1.0 sensitivity
-│   ├── ...                         # Other sensitivities (0.8-3.1)
-│   └── Sensitivity 3.1.lua        # For 3.1 sensitivity
-├── Button Reference/               # Mouse button diagrams
-│   └── 【必看按键图】.md            # Button numbering guide
-├── Documentation/
-│   ├── 使用说明.md                  # Detailed instructions
-│   └── 5E无法使用教程.md            # 5E platform troubleshooting
-├── Video Tutorial.mp4              # Video walkthrough
-├── lghub_installer.exe             # Logitech G HUB installer
-└── README.md                       # This file
+├── Script Code_脚本代码/               # Recoil control scripts
+│   ├── 游戏内灵敏度0.8.lua             # For 0.8 sensitivity
+│   ├── 游戏内灵敏度1.0.lua             # For 1.0 sensitivity
+│   ├── ...                             # Other sensitivities (0.8-3.1)
+│   └── 游戏内灵敏度3.1.lua             # For 3.1 sensitivity
+├── Must-see Button Diagram/            # Mouse button diagrams
+├── Must-see Button Diagram_必看按键图.md # Button numbering guide
+├── Instruction Manual _使用说明.md      # Detailed instructions
+├── 5E cannot use the tutorial_5E无法使用教程.md # 5E platform troubleshooting
+├── Video tutorial_视频教程.mp4          # Video walkthrough
+├── lghub_installer.exe                 # Logitech G HUB installer
+└── README.md                           # This file
 ```
 
 ## Training Tips
@@ -98,7 +97,7 @@ CS2 Practice Gun Takedown/
 
 ### 5E Platform Issues
 
-Refer to [`5E Platform Guide`](5E cannot use the tutorial_5E无法使用教程.md) for specific solutions.
+Refer to [`5E Platform Guide`](5E%20cannot%20use%20the%20tutorial_5E%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md) for specific solutions.
 
 ## Advanced Usage
 
@@ -115,9 +114,9 @@ This tool is designed for practice and training purposes only. Users are respons
 
 ## Support
 
-- Read [`使用说明.md`](Instruction Manual _使用说明.md) for detailed documentation
-- Watch `Video Tutorial.mp4` for visual instructions
-- Check [`Button Reference`](Must-see Button Diagram_必看按键图.md) for mouse button layouts
+- Read [`使用说明.md`](Instruction%20Manual%20_%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) for detailed documentation
+- Watch `Video tutorial_视频教程.mp4` for visual instructions
+- Check [`Button Reference`](Must-see%20Button%20Diagram_%E5%BF%85%E7%9C%8B%E6%8C%89%E9%94%AE%E5%9B%BE.md) for mouse button layouts
 
 ---
 
