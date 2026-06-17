@@ -23,33 +23,35 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
 ### Prerequisites
 
 1. **Install Logitech G HUB**
+
    - Run `lghub_installer.exe` to install the software
    - Restart your computer after installation
-
 2. **Check Your Mouse Model**
+
    - Refer to [`Button Reference Guide`](【必看按键图】.md) for button numbering
    - Identify which buttons correspond to weapon selections
 
 ### Setup Instructions
 
 1. **Select Your Sensitivity Script**
+
    - Choose the `.lua` file matching your in-game sensitivity
    - Example: For sensitivity 2.5, use `游戏内灵敏度2.5.lua`
-
 2. **Import to Logitech G HUB**
+
    - Open Logitech G HUB
    - Select your mouse device
    - Navigate to "Scripts" or "Macro" settings
    - Import the selected `.lua` file
-
 3. **Configure Button Bindings**
+
    - Assign weapon switches to mouse buttons
    - Default configuration:
      - Single click side button: Primary weapon (AK47/M4A4)
      - Double click side button: Secondary weapon
      - Ctrl + side button: Other weapons
-
 4. **Activate and Test**
+
    - Enable the script in G HUB
    - Enter CS2 and test in practice mode
 
@@ -82,22 +84,26 @@ CS2 Practice Gun Takedown/
 ## Troubleshooting
 
 ### Script Not Working
+
 1. Verify Logitech G HUB is running
 2. Check script is properly imported and enabled
 3. Confirm correct sensitivity file is selected
 4. Verify mouse button bindings
 
 ### Recoil Control Inconsistent
+
 1. Match in-game sensitivity exactly to script filename
 2. Check for conflicting key bindings
 3. Ensure mouse DPI is stable
 
 ### 5E Platform Issues
-Refer to [`5E Platform Guide`](5E无法使用教程.md) for specific solutions.
+
+Refer to [`5E Platform Guide`](5E cannot use the tutorial_5E无法使用教程.md) for specific solutions.
 
 ## Advanced Usage
 
 The tool supports fine-tuning of recoil parameters including:
+
 - X/Y coordinate offsets for horizontal/vertical control
 - Timing delays between shots
 - Weapon-specific spray patterns
@@ -109,9 +115,9 @@ This tool is designed for practice and training purposes only. Users are respons
 
 ## Support
 
-- Read [`使用说明.md`](使用说明.md) for detailed documentation
+- Read [`使用说明.md`](Instruction Manual _使用说明.md) for detailed documentation
 - Watch `Video Tutorial.mp4` for visual instructions
-- Check [`Button Reference`](【必看按键图】.md) for mouse button layouts
+- Check [`Button Reference`](Must-see Button Diagram_必看按键图.md) for mouse button layouts
 
 ---
 
