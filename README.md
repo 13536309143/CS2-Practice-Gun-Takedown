@@ -28,7 +28,7 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
    - Restart your computer after installation
 2. **Check Your Mouse Model**
 
-   - Refer to [`Button Reference Guide`](【必看按键图】.md) for button numbering
+   - Refer to [`Button Reference Guide`](D:\CS2 Practice Gun Takedown\Must-see Button Diagram_必看按键图.md) for button numbering
    - Identify which buttons correspond to weapon selections
 
 ### Setup Instructions
