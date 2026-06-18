@@ -28,7 +28,7 @@
    - 安装完成后重启电脑
 2. **确认鼠标型号**
 
-   - 参考 [`鼠标按键参考图`](Must-see%20Button%20Diagram_%E5%BF%85%E7%9C%8B%E6%8C%89%E9%94%AE%E5%9B%BE.md) 了解按键编号
+   - 参考 [`鼠标按键参考图`](docs/Must-see%20Button%20Diagram_CN.md) 了解按键编号
    - 确认哪些按键对应武器选择
 
 ### 设置步骤
@@ -65,9 +65,14 @@ CS2 压枪练习工具/
 │   ├── ...                             # 其他灵敏度脚本（0.8-3.1）
 │   └── 游戏内灵敏度3.1.lua             # 灵敏度 3.1 脚本
 ├── Must-see Button Diagram/            # 鼠标按键图示
-├── Must-see Button Diagram_必看按键图.md # 按键编号指南
-├── Instruction Manual _使用说明.md      # 详细使用说明
-├── 5E cannot use the tutorial_5E无法使用教程.md # 5E平台问题解决方案
+├── pictures/                           # 教程图片
+├── docs/                               # 文档
+│   ├── Must-see Button Diagram_EN.md   # 按键图指南（英文）
+│   ├── Must-see Button Diagram_CN.md   # 按键图指南（中文）
+│   ├── Instruction Manual_EN.md        # 使用说明（英文）
+│   ├── Instruction Manual_CN.md        # 使用说明（中文）
+│   ├── 5E Cannot Use Tutorial_EN.md    # 5E教程（英文）
+│   └── 5E Cannot Use Tutorial_CN.md    # 5E教程（中文）
 ├── Video tutorial_视频教程.mp4          # 视频教程
 ├── lghub_installer.exe                 # 罗技 G HUB 安装程序
 └── README_CN.md                        # 本文件
@@ -97,7 +102,7 @@ CS2 压枪练习工具/
 
 ### 5E 平台问题
 
-参考 [`5E 平台指南`](5E%20cannot%20use%20the%20tutorial_5E%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md) 获取具体解决方案。
+参考 [`5E 平台指南`](docs/5E%20Cannot%20Use%20Tutorial_CN.md) 获取具体解决方案。
 
 ## 高级用法
 
@@ -114,9 +119,9 @@ CS2 压枪练习工具/
 
 ## 技术支持
 
-- 阅读 [`使用说明.md`](Instruction%20Manual%20_%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) 获取详细文档
+- 阅读 [`使用说明`](docs/Instruction%20Manual_CN.md) 获取详细文档
 - 观看 `Video tutorial_视频教程.mp4` 学习操作步骤
-- 查看 [`鼠标按键参考图`](Must-see%20Button%20Diagram_%E5%BF%85%E7%9C%8B%E6%8C%89%E9%94%AE%E5%9B%BE.md) 了解鼠标按键布局
+- 查看 [`鼠标按键参考图`](docs/Must-see%20Button%20Diagram_CN.md) 了解鼠标按键布局
 
 ---
 

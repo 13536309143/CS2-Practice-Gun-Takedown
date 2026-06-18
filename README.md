@@ -28,7 +28,7 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
    - Restart your computer after installation
 2. **Check Your Mouse Model**
 
-   - Refer to [`Button Reference Guide`](Must-see%20Button%20Diagram_%E5%BF%85%E7%9C%8B%E6%8C%89%E9%94%AE%E5%9B%BE.md) for button numbering
+   - Refer to [`Button Reference Guide`](docs/Must-see%20Button%20Diagram_EN.md) for button numbering
    - Identify which buttons correspond to weapon selections
 
 ### Setup Instructions
@@ -65,9 +65,14 @@ CS2 Practice Gun Takedown/
 │   ├── ...                             # Other sensitivities (0.8-3.1)
 │   └── 游戏内灵敏度3.1.lua             # For 3.1 sensitivity
 ├── Must-see Button Diagram/            # Mouse button diagrams
-├── Must-see Button Diagram_必看按键图.md # Button numbering guide
-├── Instruction Manual _使用说明.md      # Detailed instructions
-├── 5E cannot use the tutorial_5E无法使用教程.md # 5E platform troubleshooting
+├── pictures/                           # Tutorial images
+├── docs/                               # Documentation
+│   ├── Must-see Button Diagram_EN.md   # Button guide (English)
+│   ├── Must-see Button Diagram_CN.md   # Button guide (Chinese)
+│   ├── Instruction Manual_EN.md        # Instructions (English)
+│   ├── Instruction Manual_CN.md        # Instructions (Chinese)
+│   ├── 5E Cannot Use Tutorial_EN.md    # 5E guide (English)
+│   └── 5E Cannot Use Tutorial_CN.md    # 5E guide (Chinese)
 ├── Video tutorial_视频教程.mp4          # Video walkthrough
 ├── lghub_installer.exe                 # Logitech G HUB installer
 └── README.md                           # This file
@@ -97,7 +102,7 @@ CS2 Practice Gun Takedown/
 
 ### 5E Platform Issues
 
-Refer to [`5E Platform Guide`](5E%20cannot%20use%20the%20tutorial_5E%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md) for specific solutions.
+Refer to [`5E Platform Guide`](docs/5E%20Cannot%20Use%20Tutorial_EN.md) for specific solutions.
 
 ## Advanced Usage
 
@@ -114,9 +119,9 @@ This tool is designed for practice and training purposes only. Users are respons
 
 ## Support
 
-- Read [`使用说明.md`](Instruction%20Manual%20_%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) for detailed documentation
+- Read [`Instruction Manual`](docs/Instruction%20Manual_EN.md) for detailed documentation
 - Watch `Video tutorial_视频教程.mp4` for visual instructions
-- Check [`Button Reference`](Must-see%20Button%20Diagram_%E5%BF%85%E7%9C%8B%E6%8C%89%E9%94%AE%E5%9B%BE.md) for mouse button layouts
+- Check [`Button Reference`](docs/Must-see%20Button%20Diagram_EN.md) for mouse button layouts
 
 ---
 
