@@ -1,0 +1,7 @@
+path: D:\CS2 Practice Gun Takedown\yolov8-cs2-player-recognition-main
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['player']
