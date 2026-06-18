@@ -36,7 +36,7 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
 1. **Select Your Sensitivity Script**
 
    - Choose the `.lua` file matching your in-game sensitivity
-   - Example: For sensitivity 2.5, use `Script Code_脚本代码/游戏内灵敏度2.5.lua`
+   - Example: For sensitivity 2.5, use `Script Code_脚本代码/Sensitivity_2.5.lua`
 2. **Import to Logitech G HUB**
 
    - Open Logitech G HUB
@@ -60,10 +60,10 @@ A comprehensive recoil control training tool for Counter-Strike 2 (CS2). This to
 ```
 CS2 Practice Gun Takedown/
 ├── Script Code_脚本代码/               # Recoil control scripts
-│   ├── 游戏内灵敏度0.8.lua             # For 0.8 sensitivity
-│   ├── 游戏内灵敏度1.0.lua             # For 1.0 sensitivity
+│   ├── Sensitivity_0.8.lua             # For 0.8 sensitivity
+│   ├── Sensitivity_1.0.lua             # For 1.0 sensitivity
 │   ├── ...                             # Other sensitivities (0.8-3.1)
-│   └── 游戏内灵敏度3.1.lua             # For 3.1 sensitivity
+│   └── Sensitivity_3.1.lua             # For 3.1 sensitivity
 ├── Must-see Button Diagram/            # Mouse button diagrams
 ├── pictures/                           # Tutorial images
 ├── docs/                               # Documentation
